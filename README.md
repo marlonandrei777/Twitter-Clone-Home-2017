@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/marlonandrei777/Proffy/blob/main/LICENSE.md"><img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=00bae5&labelColor=000000"></a>
+  <a href="https://github.com/marlonandrei777/Twitter-Clone-Home-2017-/blob/main/LICENSE.md"><img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=00bae5&labelColor=000000"></a>
 </p>
 
 ![](.github/twitter.png)
